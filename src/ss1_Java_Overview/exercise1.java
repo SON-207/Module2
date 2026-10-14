@@ -1,6 +1,6 @@
-package ss1_md2;
+package ss1_Java_Overview;
 import java.util.Scanner;
-public class BTVN1 {
+public class exercise1 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter your name");
