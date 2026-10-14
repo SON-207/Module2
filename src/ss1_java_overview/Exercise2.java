@@ -1,6 +1,6 @@
-package ss1_Java_Overview;
+package ss1_java_overview;
 import java.util.Scanner;
-public class exercise2 {
+public class Exercise2 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("moi nhap so usd");
