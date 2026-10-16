@@ -27,7 +27,5 @@ public class btvn1_array {
         for (int i = 0; i < N.length; i++) {
             System.out.print(N[i] + " ");
         }
-
-
     }
 }
