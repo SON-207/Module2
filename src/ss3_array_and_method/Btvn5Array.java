@@ -1,6 +1,6 @@
 package ss3_array_and_method;
 import java.util.Scanner;
-public class btvn5_array {
+public class Btvn5Array {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("nhap n tu ban phim = ");

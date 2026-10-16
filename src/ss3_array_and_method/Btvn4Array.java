@@ -1,8 +1,8 @@
 package ss3_array_and_method;
 
 import java.util.Scanner;
-import java.util.Scanner;
-public class btvn4_array {
+
+public class Btvn4Array {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("nhap so hang ");

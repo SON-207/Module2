@@ -1,5 +1,5 @@
 package ss2_loop_and_array;
-public class btvn3_loop {
+public class Btvn3Loop {
     public static void main(String[] args) {
         int n = 2;
         while(n < 100){

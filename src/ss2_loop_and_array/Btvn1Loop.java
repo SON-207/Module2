@@ -1,6 +1,6 @@
 package ss2_loop_and_array;
 import java.util.Scanner;
-public class btvn1_loop {
+public class Btvn1Loop {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         boolean flag = true;

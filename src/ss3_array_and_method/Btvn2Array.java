@@ -1,6 +1,6 @@
 package ss3_array_and_method;
 import java.util.Scanner;
-public class btvn2_array {
+public class Btvn2Array {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int[] N = {10,4,6,7,8,0,0,0,0,0};
