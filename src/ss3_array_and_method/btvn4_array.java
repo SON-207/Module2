@@ -17,9 +17,8 @@ public class btvn4_array {
                 m[i][j] = sc.nextInt();
             }
         }
-        int max = 0;
+        int max = m[0][0];
         for(int i = 0; i < m.length; i++){
-             max = m[0][0];
             for(int j = 0; j < m[i].length; j++){
                 if(max < m[i][j]){
                     max = m[i][j];

@@ -17,9 +17,8 @@ public class btvn5_array {
             System.out.print(N[i]+" ");
         }
         //kiem tra gia tri nho nhat
-        int min = 0;
+        int min = N[0];
         for (int i = 1; i < N.length; i++) {
-            min = N[0];
             if(min > N[i]){
                 min = N[i];
             }
