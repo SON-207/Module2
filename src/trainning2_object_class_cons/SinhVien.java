@@ -5,7 +5,7 @@ public class SinhVien {
     private int tuoi;
     private double diemTB;
 
-    SinhVien() {
+    public SinhVien() {
         this("chua co ten", 0);
     }
 
