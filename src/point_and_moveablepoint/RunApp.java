@@ -1,4 +1,4 @@
-package Point_and_MoveablePoint;
+package point_and_moveablepoint;
 
 public class RunApp {
     public static void main(String[] args) {

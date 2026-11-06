@@ -1,4 +1,4 @@
-package Point_and_MoveablePoint;
+package point_and_moveablepoint;
 
 public class MovablePoint extends Point{
     private float xspeed = 0.0f;
